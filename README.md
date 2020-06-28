@@ -15,6 +15,10 @@ We lost Interface Segregation somewhere along the way: [All our SOLIDs are SOLD!
 
 You have better tasks to spend your time on than argue about these things.
 
+### General software engineering
+
+OOP is dead. Right guys? Right? [Elite Task Force Lambda](./elite_task_force_lambda.md)
+
 ### Java Enterprise software engineering
 
 DTOs can be Entities, don't get upset about it: [Be my DTO, Be my Entity!](./be_my_DTO_be_my_entity.md)
